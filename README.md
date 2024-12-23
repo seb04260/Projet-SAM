@@ -22,3 +22,8 @@ make clean
 Pour recompiler tout le projet :
 
 make 
+
+DANS CE DOSSIER FAIRE 3 DOSSIERS : 
+input : ou on met les .cvs et .dat
+output : dossier ou on retrouve les fichiers de sortie
+tmp : dossier temporaire
